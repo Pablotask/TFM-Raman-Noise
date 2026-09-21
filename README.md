@@ -49,18 +49,17 @@ The repository contains the MATLAB routines used for:
 - estimation of the Raman parameter $\beta$;
 - power-budget calculations;
 - bootstrap analysis of the $0$ km critical point; and
-- generation of complementary statistical plots, including histograms and
-  boxplots.
+- generation of complementary statistical plots, including histograms and boxplots.
 
 The code is organized according to the different stages of the experimental and data-analysis workflow.
 
 ## Author 
 
-Pablo Díez Tascón
+Pablo Díez Tascón.
 
 ## Studies
 
-Master's degree in Telecommunications Engineering 
+Master's degree in Telecommunications Engineering.
 
 ## University
 
