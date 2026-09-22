@@ -64,3 +64,7 @@ Master's degree in Telecommunications Engineering.
 ## University
 
 Escuela Técnica Superior de Ingenieros de Telecomunicación (ETSIT), Universidad de Valladolid (Uva).
+
+## Bibliographic references
+
+T. E. Chapuran et al., “Optical networking for quantum key distribution and quantum communications,” New Journal of Physics, vol. 11, no. 10, Art. no. 105001, 2009.
