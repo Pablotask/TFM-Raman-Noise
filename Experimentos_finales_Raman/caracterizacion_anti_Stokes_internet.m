@@ -31,7 +31,7 @@ delta = alpha2-alpha1;
 % Parámetros detector
 T_gate = 5e-9;
 Tau    = 10e-6;
-eta    = 0.10;
+eta    = 0.12; % eficiencia propia de la banda O; la que se pretende detectar
 f      = 50e6;
 
 % Parámetros propios de la energía del fotón
