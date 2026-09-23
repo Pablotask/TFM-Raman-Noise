@@ -37,7 +37,7 @@ f      = 50e6;
 % Parámetros propios de la energía del fotón
 h = 6.62607015e-34; 
 c = 299792458; 
-lambda = 1550e-9; 
+lambda = 1310e-9; 
 Eph = h*c/lambda; 
 
 % ==========================================================
